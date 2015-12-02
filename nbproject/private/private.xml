@@ -2,6 +2,13 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/F:/xampp/htdocs/lamaranonline/public/assets/css/bootstrap.css</file>
+            <file>file:/F:/xampp/htdocs/lamaranonline/resources/views/welcome.blade.php</file>
+            <file>file:/F:/xampp/htdocs/lamaranonline/readme.md</file>
+            <file>file:/F:/xampp/htdocs/lamaranonline/config/app.php</file>
+            <file>file:/F:/xampp/htdocs/lamaranonline/resources/views/member/layout.blade.php</file>
+            <file>file:/F:/xampp/htdocs/lamaranonline/config/view.php</file>
+        </group>
     </open-files>
 </project-private>
